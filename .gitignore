@@ -1,0 +1,11 @@
+node_modules/
+lib/
+dist/
+_site/
+css/
+.sass-cache/
+.publish/
+.vscode/
+js/bit.min.js
+.vs/
+npm-debug.log
